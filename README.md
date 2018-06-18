@@ -2,7 +2,7 @@
 
 As part of my post on web scraping from the Construct Digital blog, I have shared some code here that can get you started on your first data gathering project.
 
-You can find the entire blog entry here.
+You can find the entire [blog entry here](https://www.constructdigital.com/blog/everything-a-digital-marketer-needs-to-know-about-data-collection-through-ethical-web-scraping).
 
 ---
 
